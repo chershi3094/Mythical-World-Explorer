@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #f3e9d2;
+  color: #3e2723;
+  text-align: center;
+}
+
+h1 {
+  margin: 10px 0;
+  font-size: 30px;
+  color: #4e342e;
+  text-shadow: 1px 1px 0 #fff;
+}
+
+#map {
+  height: 90vh;
+  width: 100%;
+  border-top: 4px solid #a1887f;
+  border-bottom: 4px solid #a1887f;
+}
