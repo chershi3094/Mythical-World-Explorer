@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Elysium",
+    "origin": "Greek Mythology",
+    "lat": 36.5,
+    "lng": 25.0,
+    "description": "A paradise for the heroic and virtuous after death.",
+    "symbol": "🌺"
+  },
+  {
+    "name": "Tír na nÓg",
+    "origin": "Irish Mythology",
+    "lat": 53.0,
+    "lng": -10.0,
+    "description": "The Land of Youth, a place of eternal beauty and joy.",
+    "symbol": "🌈"
+  },
+  {
+    "name": "The Garden of Eden",
+    "origin": "Abrahamic Religions",
+    "lat": 33.0,
+    "lng": 44.0,
+    "description": "The first paradise, home of Adam and Eve.",
+    "symbol": "🌳"
+  },
+  {
+    "name": "Avalon",
+    "origin": "Arthurian Legend",
+    "lat": 50.7,
+    "lng": -2.7,
+    "description": "A mystical island where King Arthur was taken to heal.",
+    "symbol": "🛡️"
+  },
+  {
+    "name": "Jambudvīpa",
+    "origin": "Hindu & Jain Cosmology",
+    "lat": 20.0,
+    "lng": 78.0,
+    "description": "The central continent in Hindu and Jain cosmology.",
+    "symbol": "🪷"
+  },
+  {
+    "name": "Xanadu",
+    "origin": "Mongolian Legend / Coleridge's Poem",
+    "lat": 42.2,
+    "lng": 116.1,
+    "description": "A luxurious and magical city of Kubla Khan.",
+    "symbol": "🏯"
+  },
+  {
+    "name": "Heavenly Jerusalem",
+    "origin": "Christian Mysticism",
+    "lat": 31.8,
+    "lng": 35.2,
+    "description": "A perfect city promised in the Book of Revelation.",
+    "symbol": "⛪"
+  },
+  {
+    "name": "Iram of the Pillars",
+    "origin": "Islamic Mythology",
+    "lat": 18.0,
+    "lng": 54.0,
+    "description": "A lost city in the Arabian desert destroyed by divine wrath.",
+    "symbol": "🏜️"
+  },
+  {
+    "name": "Mag Mell",
+    "origin": "Celtic Mythology",
+    "lat": 52.0,
+    "lng": -15.0,
+    "description": "A paradise across the western sea, ruled by gods and heroes.",
+    "symbol": "🌅"
+  },
+  {
+    "name": "Sambhala",
+    "origin": "Kalachakra Tantra",
+    "lat": 30.0,
+    "lng": 88.0,
+    "description": "A kingdom of enlightened rulers destined to bring peace to Earth.",
+    "symbol": "☸️"
+  },
+  {
+    "name": "Kunlun Mountains",
+    "origin": "Chinese Mythology",
+    "lat": 36.5,
+    "lng": 85.0,
+    "description": "A mythical mountain range housing goddesses and immortals.",
+    "symbol": "⛰️"
+  },
+  {
+    "name": "Tlālōcān",
+    "origin": "Aztec Mythology",
+    "lat": 19.4,
+    "lng": -99.1,
+    "description": "A lush afterlife ruled by the rain god Tlaloc.",
+    "symbol": "🌧️"
+  },
+  {
+    "name": "Mount Meru",
+    "origin": "Hindu, Jain, and Buddhist Cosmology",
+    "lat": 0.0,
+    "lng": 90.0,
+    "description": "The sacred central world-mountain of the universe.",
+    "symbol": "🗻"
+  },
+  {
+    "name": "Naraka",
+    "origin": "Hindu & Buddhist Mythology",
+    "lat": -20.0,
+    "lng": 80.0,
+    "description": "The underworld of punishment before rebirth.",
+    "symbol": "🔥"
+  },
+  {
+    "name": "Paititi",
+    "origin": "Incan Legend",
+    "lat": -13.2,
+    "lng": -72.5,
+    "description": "A legendary hidden city of gold in the Andes.",
+    "symbol": "🪙"
+  },
+  {
+    "name": "Ys",
+    "origin": "Breton Mythology",
+    "lat": 48.0,
+    "lng": -4.5,
+    "description": "A drowned city off the coast of Brittany, swallowed by the sea.",
+    "symbol": "🌊"
+  },
+  {
+    "name": "Utopia",
+    "origin": "Thomas More’s Book",
+    "lat": 0.0,
+    "lng": 0.0,
+    "description": "An imaginary perfect society with ideal laws and justice.",
+    "symbol": "🏛️"
+  },
+  {
+    "name": "Sankara Stones Village",
+    "origin": "Indian Folklore / Fiction",
+    "lat": 22.6,
+    "lng": 75.8,
+    "description": "Home of mystical stones said to hold immense power.",
+    "symbol": "🔮"
+  },
+  {
+    "name": "Diyu",
+    "origin": "Chinese Mythology",
+    "lat": -10.0,
+    "lng": 110.0,
+    "description": "The Chinese realm of the dead where souls are judged and punished.",
+    "symbol": "👻"
+  },
+  {
+    "name": "Yomi",
+    "origin": "Japanese Mythology",
+    "lat": 35.0,
+    "lng": 135.0,
+    "description": "The land of the dead in Japanese lore, ruled by Izanami.",
+    "symbol": "👹"
+  }
+]
